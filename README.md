@@ -57,6 +57,7 @@ Project Organization
 Running Jupyter Notebook
 
 1 - Ensure the two CSV files train.csv and test.csv are located in the ../data/raw/ directory.
+
 2 - Run the entirity of Zhang_RuiHu-13627753-week1_LogisticRegressionCV20Folds.ipynb.
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
